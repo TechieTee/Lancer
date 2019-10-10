@@ -1,0 +1,35 @@
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+body{
+    background-color: #FFF;
+}
+#sidebar{
+    width: 18.06%;
+    height: 100vh;
+    background-color: #091429;
+    color: #FFF;
+}
+#logo{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 63px;
+}
+ul li{
+    text-decoration: none;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 8px;
+    list-style-type: none;
+    padding: 8px;
+}
+i{
+    padding-right: 10px;
+    padding-bottom: -15px;
+}
